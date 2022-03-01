@@ -1,27 +1,27 @@
-Lynne
+Maria
 Smith
-123 3rd Ave
+567 Alameda Ave
 Hayward
 Ca
 28666
-lynne.grewe@csueastbay.edu
+maria_smith76@yahoo.com
 510-885-4167
-Butch
-Grewe
-Bay Avenue
-Capitoal
+Vanessa
+Cordova
+55 Naglee Ave
+Santa Clara
 Ca
-99999
-bg@gmail.com
-415-389-1239
-Karla
-Villa
-4978 New World Dr
+12345
+vcordova@gmail.com
+415-389-1239›
+Jake
+Adams
+98 Almaden Ave
 San Jose
 CA
-95136
-karlavilla23@gmail.com
-4088304116
+95133
+jakead34@yahoo.com
+408-830-4116
 Martha
 Estrella
 128 Forest Ave
@@ -29,4 +29,12 @@ San Jose
 CA
 95128
 marthaestrella@gmail.com
-4087651234
+408-765-1234
+Sara
+Jacobs
+742 Branham Ln
+Santa Cruz
+CA
+91345
+sarajacobs55@gmail.com
+408-987-1234

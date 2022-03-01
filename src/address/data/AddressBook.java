@@ -50,8 +50,12 @@ public class AddressBook {
      * @param lastName String to find address entries
      */
     public void  find (String lastName){
-
-        System.out.println( addressEntryList.get(lastName));
+        if (addressEntryList.get(lastName) == null){
+            System.out.print("No entries found\n");
+        }else {
+            System.out.println("Here are the entries found:\n ");
+            System.out.println(addressEntryList.get(lastName));
+        }
 
     }
 

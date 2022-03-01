@@ -104,8 +104,6 @@ public class AddressBookApplication {
                 //get user's input
                 userInput = input.nextLine();
 
-                //print out the entries with the corresponding last name
-                System.out.println("here are the entries found:\n ");
                 //print entries
                 addressBook.find(userInput);
 
